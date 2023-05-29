@@ -1,9 +1,36 @@
-### Hi there 👋
+### Hello There👋, , I'm Gustavo Russo!
+
+```javascript
+const aboutMe = {
+   pronouns: "he" | "him",
+   code: [Javascript, HTML, CSS,  CSharp],
+   technologies: {
+      frontEnd: {
+         css: ["Materialize",  "Bootstrap", "Material Design"]
+      },
+      backEnd: {
+         PHP: ["Laravel"],
+         js: ["Node", "Express"],
+         misc: ["Bash"]
+      },
+      databases: ["SQLServer", "mySQL"],
+      mobile: ["Android"]
+   },
+   currentOccupation: ["Currently work as FullStack in Php"],
+   challenge: "I am taking a FullStack course at DigitalHouse to expand my development knowledge",
+};
+```
+
+
 
 <!--
+ver: 
+https://github.com/kautukkundan/Awesome-Profile-README-templates/blob/master/code-styled/Reeveng.md
+https://github.com/anmol098/waka-readme-stats/tree/master
+
 **grusso-dev/grusso-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
