@@ -3,7 +3,7 @@
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [Javascript, HTML, CSS,  CSharp],
+   code: [PHP,Javascript, HTML, CSS,  CSharp],
    technologies: {
       frontEnd: {
          css: ["Materialize",  "Bootstrap", "Material Design"]
@@ -16,7 +16,7 @@ const aboutMe = {
       databases: ["SQLServer", "mySQL"],
       mobile: ["Android"]
    },
-   currentOccupation: ["Currently work as FullStack in Php"],
+   currentOccupation: ["Currently work as FullStack in PHP"],
    challenge: "I am taking a FullStack course at DigitalHouse to expand my development knowledge",
 };
 ```
