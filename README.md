@@ -10,7 +10,7 @@ const aboutMe = {
       },
       backEnd: {
          PHP: ["Laravel"],
-         js: ["Node", "Express"],
+         js: ["Node", "Express","Sequelize"],
          misc: ["Bash"]
       },
       databases: ["SQLServer", "mySQL"],
