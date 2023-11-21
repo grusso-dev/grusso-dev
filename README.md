@@ -10,14 +10,14 @@ const aboutMe = {
       },
       backEnd: {
          PHP: ["Laravel"],
-         js: ["Node", "Express","Sequelize"],
+         js: ["Node", "Express","Sequelize","React"],
          misc: ["Bash"]
       },
       databases: ["SQLServer", "mySQL"],
       mobile: ["Android"]
    },
    currentOccupation: ["Currently work as FullStack in PHP"],
-   challenge: "I am taking a FullStack course at DigitalHouse to expand my development knowledge",
+   challenge: "",
 };
 ```
 
