@@ -14,7 +14,8 @@ const aboutMe = {
          misc: ["Bash"]
       },
       databases: ["SQLServer", "mySQL"],
-      mobile: ["Android"]
+      mobile: ["Android"],
+      SO: ["Linux", "MacOs","Windows"]
    },
    currentOccupation: ["Currently work as FullStack in PHP"],
    challenge: "",
