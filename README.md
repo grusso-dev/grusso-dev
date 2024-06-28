@@ -15,7 +15,11 @@ const aboutMe = {
       },
       databases: ["SQLServer", "mySQL"],
       mobile: ["Android"],
-      SO: ["Linux", "MacOs","Windows"]
+      SO: ["Linux", "MacOs","Windows"],
+      Other:{
+         virtualization: ["Docker","VirtualBox"],
+         Misc:['Git','GitHub']
+      }
    },
    currentOccupation: ["Currently work as FullStack in PHP"],
    challenge: "",
