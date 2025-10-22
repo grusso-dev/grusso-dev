@@ -9,7 +9,7 @@ const aboutMe = {
          css: ["Materialize",  "Bootstrap", "Material Design"]
       },
       backEnd: {
-         PHP: ["Laravel"],
+         PHP: ["Laravel","Slim"],
          js: ["Node", "Express","Sequelize","React"],
          misc: ["Bash"]
       },
