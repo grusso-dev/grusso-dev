@@ -1,4 +1,4 @@
-### Hello There👋, , I'm Gustavo Russo!
+### Hello There👋, I'm Gustavo Russo!
 
 ```javascript
 const aboutMe = {
